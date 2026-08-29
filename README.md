@@ -30,4 +30,5 @@ python3 src/main.py
 ## Features
 
 - Prints the author's name and the current date
-- Calculator helpers: `add`, `subtract`
+- Calculator helpers: `add`, `subtract`, `multiply`, `divide`
+- Error handling for division by zero and non-numeric input
